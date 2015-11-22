@@ -3,10 +3,10 @@
 ## About This Repo
 
 This repo is created for the Getting and Cleaning Data course project. It include:
-*Run_Analysis.R, the script file that completes the requirement;
-*Code_Book.md, describes the data, variables and works that have been done;
-*Output.txt, the output generated from Run_Analysis.R, the cleaned data set;
-*README.md, this file.
+* Run_Analysis.R, the script file that completes the requirement;
+* Code_Book.md, describes the data, variables and works that have been done;
+* Output.txt, the output generated from Run_Analysis.R, the cleaned data set;
+* README.md, this file.
 
 ## Project Description
 
